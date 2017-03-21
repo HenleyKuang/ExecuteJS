@@ -1,0 +1,15 @@
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\AutoBuyKicksBot.exe.config
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\chromedriver.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\chromedriver-license.txt
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\AutoBuyKicksBot.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\AutoBuyKicksBot.pdb
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\WebDriver.dll
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\WebDriver.Support.dll
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\WebDriver.xml
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Release\WebDriver.Support.xml
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.mainForm.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.FormNewScript.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.Properties.Resources.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.csproj.GenerateResource.Cache
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Release\AutoBuyKicksBot.pdb

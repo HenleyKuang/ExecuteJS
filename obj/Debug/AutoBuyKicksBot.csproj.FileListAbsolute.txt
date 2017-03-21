@@ -1,0 +1,16 @@
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\AutoBuyKicksBot.exe.config
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\AutoBuyKicksBot.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\AutoBuyKicksBot.pdb
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.csprojResolveAssemblyReference.cache
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.Properties.Resources.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.csproj.GenerateResource.Cache
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.pdb
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.mainForm.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\obj\Debug\AutoBuyKicksBot.FormNewScript.resources
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\WebDriver.dll
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\WebDriver.xml
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\chromedriver.exe
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\chromedriver-license.txt
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\WebDriver.Support.dll
+C:\Users\Henley\Desktop\Independent Projects\AutoBuyKicksBot\AutoBuyKicksBot\bin\Debug\WebDriver.Support.xml
